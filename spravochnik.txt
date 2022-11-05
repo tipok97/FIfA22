@@ -1,0 +1,19 @@
+HTML
+
+class-name for tag
+tags:
+a-ссылка
+br-перенос на след сторчку
+h1-h6 заголовки,самый большой h1
+p-common text
+
+CSS 
+
+color цвет текста
+background-color цвет текста
+margin внешний отступ
+padding внутренний отступ
+text-decoration none убрать текстовые элементы у тегов a 
+widht ширина
+height высота
+display flex элементы идут слева направо
